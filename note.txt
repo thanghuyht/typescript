@@ -1,0 +1,7 @@
+npm i -g typescrip
+npm i --save-d nodemon
+
+  "scripts": {
+    "watch": "nodemon index",
+    ...
+  },
